@@ -24,7 +24,7 @@
 
 ## 重排结果
 
-下面是用上述方法进行文字重振的对比结果，左侧列代表重新排版的效果，右侧列代表原始大小的效果。虽然左侧看上去更乱，但却更像是手写的。下文的两例分别为晁错的《**[论贵粟疏](https://so.gushiwen.cn/shiwenv_a09860c14994.aspx)**》和贾谊的《**[治安策](https://so.gushiwen.cn/shiwenv_ec737382cf4a.aspx)》**首段。字体为随手下载的 [云峰静龙行书字体免费下载和在线预览-字体天下 (fonts.net.cn)](https://www.fonts.net.cn/font-40592408336.html)。
+下面是用上述方法进行文字重振的对比结果，左侧列代表重新排版的效果，右侧列代表原始大小的效果。虽然左侧看上去更乱，但却更像是手写的。下文的两例分别为晁错的《**[论贵粟疏](https://so.gushiwen.cn/shiwenv_a09860c14994.aspx)**》和贾谊的《**[治安策](https://so.gushiwen.cn/shiwenv_ec737382cf4a.aspx)**》首段。字体为随手下载的 [云峰静龙行书字体免费下载和在线预览-字体天下 (fonts.net.cn)](https://www.fonts.net.cn/font-40592408336.html)。
 
 ![Untitled](%E6%89%8B%E5%86%99%E6%B1%89%E5%AD%97%E5%AF%B9%E9%BD%90%E7%9A%84%E5%8F%AF%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95%20f6d571a95e12492ebb75521b7c6ff3e1/Untitled%202.png)
 
